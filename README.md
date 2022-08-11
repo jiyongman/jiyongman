@@ -2,7 +2,7 @@
 
 # Hi, I'm jiyong:hand:
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyongman&count_bg=%23D8582C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyongman&count_bg=%23D8582C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
 
 ![image](https://user-images.githubusercontent.com/87258054/184135877-ad286e6b-079d-4ccd-aee1-b5be65c12072.png)
 
