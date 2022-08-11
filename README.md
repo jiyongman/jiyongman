@@ -12,13 +12,13 @@
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-squaree&logo=MySQL&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?style=flat-square&logo=Apache%20Tomcat&logoColor=black)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white)
 
 # :e-mail:Contacts:e-mail:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wldyd5689@gmail.com)](mailto:wldyd5689@gmail.com)
