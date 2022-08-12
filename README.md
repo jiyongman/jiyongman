@@ -20,14 +20,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white)
 
-# :e-mail:Contacts:e-mail:
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wldyd5689@gmail.com)](mailto:wldyd5689@gmail.com)
-
 # :pushpin:Stats:pushpin:
 
 ![jiyongman's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyongman&show_icons=true&theme=codeSTACKr)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyongman&layout=compact&theme=codeSTACKr)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyong)](https://solved.ac/jiyong)
+
+# :e-mail:Contacts:e-mail:
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wldyd5689@gmail.com)](mailto:wldyd5689@gmail.com)
 
 </div>
