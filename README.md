@@ -9,6 +9,7 @@
 # :books:Tech Stacks:books:
 ### Techs that I've used at least once
 
+![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-squaree&logo=MySQL&logoColor=white)
