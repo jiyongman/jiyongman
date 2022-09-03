@@ -23,7 +23,8 @@
 ![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=Bootstrap&logoColor=white)
+![Github](https://img.shields.io/badge/Github-181717.svg?style=flat-square&logo=Github&logoColor=white)
 
 # :pushpin:Stats:pushpin:
 
